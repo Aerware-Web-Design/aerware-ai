@@ -56,6 +56,11 @@ header {
     font-weight: bold;
 }
 
+nav {
+    display: flex;
+    align-items: center;
+}
+
 nav ul {
     display: flex;
     list-style: none;
@@ -82,6 +87,9 @@ nav ul li a:hover {
     text-align: center;
     color: #1e3a56;
     flex-grow: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .hero h2 {
@@ -95,6 +103,15 @@ nav ul li a:hover {
     font-size: 1.2rem;
     line-height: 1.5;
     color: #333;
+    margin: 50px;
+}
+
+/* Hero Content */
+.hero-content {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px gray;
 }
 
 /* Hero Buttons */
