@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AerwareAI - Home</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header class="main-header">
+        <div class="logo">
+            <h1>AerwareAI</h1>
+        </div>
+        <nav>
+            <ul>
+                <li><a href="#about">About</a></li>
+                <li><a href="#technology">Technology</a></li>
+                <li><a href="#solutions">Solutions</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="hero-content">
+            <h2>Empowering Healthcare with AI-Driven Insights</h2>
+            <br>
+            <p>AerwareHealth's EchoLog delivers intelligent, real-time data for enhanced decision&nbsp;making.</p>
+
+            <!-- Pro-level Statement -->
+            <div class="pro-statement">
+                <p>At AerwareHealth, we’re reshaping the future of healthcare through visionary AI solutions that empower both professionals and patients.<br> Our mission is to elevate healthcare standards, delivering insights that not only inform decisions but transform lives.</p>
+            </div>
+            <br>
+            <div class="hero-buttons">
+                <a href="#about" class="btn-primary">Learn More</a>
+            </div>
+	    <br>
+            <br>
+	    <br>
+	    <br>
+	    <br>
+	    <br>
+	    <!-- Affiliate Bar Section -->
+            <div class="affiliate-bar">
+                <p></p> <!-- Placeholder text for now -->
+            </div>
+
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <p>&copy; 2024 AerwareAI. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>

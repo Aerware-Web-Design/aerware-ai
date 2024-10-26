@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AerwareHealth Insights</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="logo">
+            <img src="./assets/aerwarehealth_logo_white.png" alt="AerwareHealth Logo">
+            <span>AerwareHealth</span>
+        </div>
+        <nav>
+            <ul>
+                <li><a href="#">Dashboard</a></li>
+                <li><a href="#">Insights</a></li>
+                <li><a href="#">Recommendations</a></li>
+                <li><a href="#">Settings</a></li>
+            </ul>
+        </nav>
+        <div class="profile">Dr. Smith</div>
+    </header>
+
+    <aside>
+        <ul>
+            <li><a href="#">Patient Overview</a></li>
+            <li><a href="#">Health Insights</a></li>
+            <li><a href="#">Records</a></li>
+            <li><a href="#">Feedback</a></li>
+        </ul>
+    </aside>
+
+    <main>
+        <section class="dashboard">
+            <div class="overview-card">
+                <h2>Patient Overview</h2>
+                <p><strong>Name:</strong> John Doe</p>
+                <p><strong>Age:</strong> 45</p>
+                <p><strong>Gender:</strong> Male</p>
+                <p><strong>Last Visit:</strong> October 1, 2024</p>
+                <p><strong>Vitals:</strong> Stable</p>
+                <p><strong>Current Medications:</strong> Lisinopril, Atorvastatin</p>
+            </div>
+            
+            <div class="health-data">
+                <h2>Health Data Trends</h2>
+                <div id="charts">
+                    <p><strong>Blood Pressure:</strong> 130/85 mmHg (Stable)</p>
+                    <p><strong>Heart Rate:</strong> 72 bpm (Normal)</p>
+                    <p><strong>Cholesterol:</strong> 180 mg/dL (Slightly High)</p>
+                    <p><strong>Weight:</strong> 185 lbs (Steady)</p>
+                    <p><strong>Blood Sugar (Fasting):</strong> 110 mg/dL (Pre-diabetic)</p>
+                    <div class="chart-placeholder">[Insert Health Trend Charts Here]</div>
+                </div>
+            </div>
+            
+            <div class="extra-stats">
+                <h2>Additional Stats</h2>
+                <p>Additional health data or relevant stats can be placed here for a better overview.</p>
+                <div class="stat-placeholder">[Insert Additional Stats or Data]</div>
+            </div>
+        </section>
+
+        <!-- AI Recommendations and Chatbox -->
+        <section class="ai-recommendations">
+            <h2>AI Recommendations</h2>
+            <p><strong>Based on recent activity, the system recommends:</strong></p>
+            <ul>
+                <li>Increase dosage of Atorvastatin to manage cholesterol.</li>
+                <li>Encourage 30 minutes of daily cardiovascular exercise.</li>
+                <li>Consider dietary modifications to lower blood sugar levels.</li>
+                <li>Follow up in 6 weeks to reassess blood pressure and cholesterol levels.</li>
+            </ul>
+
+            <!-- Chat Interface -->
+            <div class="chatbox">
+                <h3>Consult the AI</h3>
+                <div class="chat-history">
+                    <p><strong>Doctor:</strong> What should I do if the patient’s cholesterol levels don't decrease?</p>
+                    <p><strong>AI:</strong> Consider adding a second medication, such as Ezetimibe, or switching to a higher-dose statin.</p>
+                </div>
+                <form class="chat-input">
+                    <textarea placeholder="Ask AI a question..." required></textarea>
+                    <button type="submit">Send</button>
+                </form>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 AerwareHealth. All rights reserved.</p>
+    </footer>
+</body>
+</html>
