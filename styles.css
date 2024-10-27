@@ -58,6 +58,10 @@ header {
     background-color: #2b4977;
 }
 
+.container {
+    max-width: 1200px;
+    margin: auto;
+}
 
 /* Logo Styles */
 .logo {
@@ -134,6 +138,7 @@ nav ul li a:hover {
     border-radius: 10px;
     box-shadow: 5px 5px 10px gray;
     backdrop-filter: blur(30px);
+    width: 100%;
 }
 
 /* Hero Buttons */
@@ -255,12 +260,22 @@ nav ul li a:hover {
 .tech-overview {
     padding: 60px 50px;
     text-align: center;
+    max-width: 1200px;
+    margin: auto;
+    margin-top: 20px;
+    border-radius: 10px;
+    background: rgba(255, 255, 255, 0.2);
+    backdrop-filter: blur(30px);
+    box-shadow: 5px 5px 10px gray;
+    padding: 40px;
+    padding-top: 0;
 }
 
 .tech-overview h3 {
     font-size: 2rem;
     color: #1e3a56;
-    margin-bottom: 20px;
+    margin-top: 50px;
+    margin-bottom: 25px;
 }
 
 .tech-overview p {
