@@ -41,6 +41,13 @@ header {
     padding: 20px 50px;
     background-color: #1e3a56;
     color: white;
+	flex-wrap: wrap;
+}
+
+@media (max-width: 800px) {
+	header {
+		justify-content: center;
+	}
 }
 
 .btn-primary {
@@ -107,7 +114,7 @@ nav ul li a:hover {
 /* Hero Section */
 .hero {
     background: transparent;
-    padding: 20px 50px;
+    padding: 20px;
     text-align: center;
     color: #1e3a56;
     flex-grow: 1;
@@ -171,7 +178,7 @@ nav ul li a:hover {
 
 /* About Us Page */
 .about-section {
-    padding: 0 50px;
+    padding: 0 20px;
     color: #333;
     display: flex;
     justify-content: center;
@@ -254,23 +261,26 @@ nav ul li a:hover {
 
 /* Technology Overview Section */
 .tech-overview {
+	padding: 20px;
+}
+
+.tech-overview .container {
     padding: 60px 50px;
     text-align: center;
     max-width: 1200px;
     margin: auto;
-    margin-top: 20px;
     border-radius: 10px;
     background: rgba(255, 255, 255, 0.2);
     backdrop-filter: blur(30px);
     padding: 40px;
-    padding-top: 0;
+	padding-top: 0;
 }
 
 .tech-overview h3 {
     font-size: 2rem;
     color: #1e3a56;
-    margin-top: 50px;
-    margin-bottom: 25px;
+    padding-top: 50px;
+    padding-bottom: 25px;
 }
 
 .tech-overview p {
@@ -281,7 +291,7 @@ nav ul li a:hover {
 
 /* Features Section */
 .features-section {
-    padding: 60px 50px; /* Add more padding for breathing space */
+    padding: 60px 20px; /* Add more padding for breathing space */
     text-align: center;
 }
 
@@ -300,6 +310,7 @@ nav ul li a:hover {
 
 .feature-item {
     flex-basis: 48%; /* Make them wider, so they almost meet in the middle */
+	flex-grow: 1;
     background-color: rgba(255, 255, 255, 0.9); /* Subtle background */
     padding: 20px;
     border-radius: 8px;
@@ -422,7 +433,7 @@ nav ul li a:hover {
 
 /* Contact Section */
 .contact-section {
-    padding: 60px 50px;
+    padding: 20px;
     text-align: center;
 }
 
