@@ -182,6 +182,7 @@ nav ul li a:hover {
 }
 
 /* About Us Page */
+/* About Us Page */
 .about-section {
     padding: 0 20px;
     color: #333;
@@ -213,6 +214,11 @@ nav ul li a:hover {
     color: #333;
     margin-bottom: 20px;
     max-width: 1000px;
+}
+
+.about-text p .highlight-blue {
+    color: #007BFF; /* Blue color for emphasis */
+    font-weight: bold; /* Keep the text bold */
 }
 
 .about-text .contact-button {
