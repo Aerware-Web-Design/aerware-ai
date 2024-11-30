@@ -136,10 +136,18 @@ nav ul li a:hover {
     margin: 50px;
 }
 
+/* Highlight Blue Text */
+.hero .highlight-blue {
+    color: #1e3a56; /* Dark blue color */
+    font-weight: bold; /* Ensure bold styling */
+    font-size: 1.5rem; /* Optional: Adjust size for emphasis */
+    margin: 0; /* Remove extra spacing */
+}
+
 @media (max-width: 800px) {
-	.hero p {
-		margin: 50px 0;
-	}
+    .hero p {
+        margin: 50px 0;
+    }
 }
 
 /* Hero Content */
