@@ -217,7 +217,7 @@ nav ul li a:hover {
 }
 
 .about-text p .highlight-blue {
-    color: #007BFF; /* Blue color for emphasis */
+    color: #1e3a56; /* Darker blue used in headings */
     font-weight: bold; /* Keep the text bold */
 }
 
