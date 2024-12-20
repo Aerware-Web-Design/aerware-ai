@@ -136,6 +136,14 @@ nav ul li a:hover {
     margin: 50px;
 }
 
+/* Constrain the Width */
+.hero-content {
+    max-width: 800px; /* Adjust width as needed */
+    width: 100%; /* Ensures responsiveness */
+    padding: 0 20px; /* Add padding for smaller screens */
+    text-align: center; /* Center-align the text */
+}
+
 /* Highlight Blue Text */
 .hero .highlight-blue {
     color: #1e3a56; /* Dark blue color */
