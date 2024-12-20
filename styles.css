@@ -138,7 +138,7 @@ nav ul li a:hover {
 
 /* Constrain the Width */
 .hero-content {
-    max-width: 800px; /* Adjust width as needed */
+    max-width: 500px; /* Adjust width as needed */
     width: 100%; /* Ensures responsiveness */
     padding: 0 20px; /* Add padding for smaller screens */
     text-align: center; /* Center-align the text */
