@@ -111,6 +111,7 @@ nav ul li a:hover {
 }
 
 /* Hero Section */
+/* Hero Section */
 .hero {
     background: transparent;
     padding: 20px;
@@ -122,49 +123,42 @@ nav ul li a:hover {
     align-items: center;
 }
 
+/* Constrain the Hero Content */
+.hero-content {
+    text-align: center;
+    width: 100%;
+    max-width: 1200px; /* Matches the About Us section */
+    padding: 20px;
+    background: rgba(255, 255, 255, 0.2); /* Same transparency */
+    backdrop-filter: blur(30px); /* Same blur */
+    border-radius: 10px; /* Consistent rounded corners */
+    display: flex;
+    flex-direction: column; /* Stack elements vertically */
+    align-items: center; /* Center align the content */
+    box-sizing: border-box; /* Prevent padding from adding to width */
+}
+
+/* Hero Heading */
 .hero h2 {
     font-size: 2.8rem;
     margin-bottom: 20px;
     color: #1e3a56;
 }
 
+/* Hero Paragraph */
 .hero p {
-    margin-bottom: 0px;
     font-size: 1.2rem;
-    line-height: 1.5;
+    line-height: 1.6;
     color: #333;
-    margin: 50px;
-}
-
-/* Constrain the Width */
-.hero-content {
-    max-width: 800px; /* Adjust width as needed */
-    width: 100%; /* Ensures responsiveness */
-    padding: 0 20px; /* Add padding for smaller screens */
-    text-align: center; /* Center-align the text */
+    margin-bottom: 20px;
+    max-width: 1000px; /* Matches About Us */
 }
 
 /* Highlight Blue Text */
 .hero .highlight-blue {
-    color: #1e3a56; /* Dark blue color */
-    font-weight: bold; /* Ensure bold styling */
-    font-size: 1.5rem; /* Optional: Adjust size for emphasis */
-    margin: 0; /* Remove extra spacing */
-}
-
-@media (max-width: 800px) {
-    .hero p {
-        margin: 50px 0;
-    }
-}
-
-/* Hero Content */
-.hero-content {
-    background: rgba(255, 255, 255, 0.2);
-    padding: 20px;
-    border-radius: 10px;
-    backdrop-filter: blur(30px);
-    width: 100%;
+    color: #1e3a56; /* Dark blue */
+    font-weight: bold; /* Emphasis */
+    font-size: 1.5rem;
 }
 
 /* Hero Buttons */
@@ -172,6 +166,16 @@ nav ul li a:hover {
     display: flex;
     justify-content: center;
     margin-top: 30px;
+}
+
+/* Responsive Adjustments */
+@media (max-width: 800px) {
+    .hero-content {
+        padding: 10px;
+    }
+    .hero p {
+        margin: 20px 0;
+    }
 }
 
 /* Affiliate Bar Section */
