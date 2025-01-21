@@ -129,13 +129,14 @@ nav ul li a:hover {
     width: 100%;
     max-width: 1200px; /* Matches the About Us section */
     padding: 20px;
-    background: rgba(255, 255, 255, 0.2); /* Same transparency */
+    background: rgba(255, 255, 255, 0.15); /* Same transparency */
     backdrop-filter: blur(30px); /* Same blur */
     border-radius: 10px; /* Consistent rounded corners */
     display: flex;
     flex-direction: column; /* Stack elements vertically */
     align-items: center; /* Center align the content */
     box-sizing: border-box; /* Prevent padding from adding to width */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
 
 /* Hero Heading */
