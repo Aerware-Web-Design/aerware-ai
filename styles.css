@@ -323,6 +323,12 @@ nav ul li a:hover {
     max-width: 1000px;
 }
 
+@media (max-width: 800px) {
+    .tech-section-box {
+        padding: 20px;
+    }
+}
+
 /* Features Section */
 .features-section {
     padding: 60px 20px;
