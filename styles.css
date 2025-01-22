@@ -156,10 +156,15 @@ nav ul li a:hover {
 
 /* Highlight Blue Text */
 .hero .highlight-blue {
-    color: #1e3a56;
-    font-weight: bold;
-    font-size: 1.5rem;
+    color: #1e3a56; /* Keep the strong, professional blue */
+    font-family: 'Roboto', sans-serif; /* Or 'Open Sans', 'Lato' */
+    font-weight: 600; /* Slightly less bold for a more refined look */
+    font-size: 1.75rem; /* Increase size slightly for emphasis */
+    line-height: 1.4; /* Add better spacing between lines */
+    letter-spacing: 0.5px; /* Subtle spacing for readability */
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1); /* Adds depth */
 }
+
 
 /* Hero Buttons */
 .hero-buttons {
