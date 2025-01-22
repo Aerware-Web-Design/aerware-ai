@@ -129,7 +129,7 @@ nav ul li a:hover {
     width: 100%;
     max-width: 1200px; /* Matches the About Us section */
     padding: 20px;
-    background: rgba(44, 44, 44, 0.3); /* Frosted glass background */	
+    background: rgba(255, 255, 255, 0.15);
     backdrop-filter: blur(10px); /* Same blur */
     border-radius: 10px; /* Consistent rounded corners */
     display: flex;
@@ -157,7 +157,7 @@ nav ul li a:hover {
 
 /* Highlight Blue Text */
 .hero .highlight-blue {
-    color: #333; /* dark grey */
+    color: #1e3a56; /* dark blue */
     font-weight: bold; /* Emphasis */
     font-size: 1.5rem;
 }
