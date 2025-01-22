@@ -130,8 +130,8 @@ nav ul li a:hover {
     width: 100%;
     max-width: 1200px; /* Matches the About Us section */
     padding: 20px;
-    background: rgba(255, 255, 255, 0.15); /* Same transparency */
-    backdrop-filter: blur(30px); /* Same blur */
+    background: rgba(44, 44, 44, 0.3); /* Frosted glass background */	
+    backdrop-filter: blur(10px); /* Same blur */
     border-radius: 10px; /* Consistent rounded corners */
     display: flex;
     flex-direction: column; /* Stack elements vertically */
