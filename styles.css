@@ -158,7 +158,7 @@ nav ul li a:hover {
 
 /* Highlight Blue Text */
 .hero .highlight-blue {
-    color: #1e3a56; /* Dark blue */
+    color: #FFFFFF; /* White */
     font-weight: bold; /* Emphasis */
     font-size: 1.5rem;
 }
