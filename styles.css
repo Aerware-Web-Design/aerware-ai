@@ -204,11 +204,11 @@ nav ul li a:hover {
 /* About Us Page */
 .about-section {
     padding: 20px;
+    color: #333;
     display: flex;
-    flex-direction: column;
+    flex-direction: column;  /* This ensures vertical stacking */
     align-items: center;
-    gap: 30px; /* Space between boxes */
-}
+    width: 100%;  /* Ensure full width */
 
 .about-section-box {
     width: 100%;
