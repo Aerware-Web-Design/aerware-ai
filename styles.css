@@ -150,14 +150,14 @@ nav ul li a:hover {
 .hero p {
     font-size: 1.2rem;
     line-height: 1.6;
-    color: #FFFFFF;
+    color: ##444;
     margin-bottom: 20px;
     max-width: 1000px; /* Matches About Us */
 }
 
 /* Highlight Blue Text */
 .hero .highlight-blue {
-    color: #FFFFFF; /* White */
+    color: #444; /* White */
     font-weight: bold; /* Emphasis */
     font-size: 1.5rem;
 }
@@ -202,7 +202,6 @@ nav ul li a:hover {
     padding: 0;
 }
 
-/* About Us Page */
 /* About Us Page */
 .about-section {
     padding: 0 20px;
