@@ -21,7 +21,7 @@ html, body {
 body {
     display: flex;
     flex-direction: column;
-    background-image: url('./assets/bg_image_2.png');	
+    background-image: url('./assets/bg_image.png');	
     background-color: #f4f4f4;
     color: #333;
     background-size: cover;
