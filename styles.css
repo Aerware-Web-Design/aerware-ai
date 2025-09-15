@@ -303,7 +303,7 @@ nav ul li a:hover {
     width: 100%;
     max-width: 1200px;
     padding: 30px;
-    background: rgba(255, 255, 255, 0.15);
+    background: #1e3a56;
     backdrop-filter: blur(10px);
     border-radius: 10px;
     box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.1);
@@ -356,7 +356,7 @@ nav ul li a:hover {
 .feature-item {
     flex-basis: 48%;
     flex-grow: 1;
-    background-color: rgba(255, 255, 255, 0.9);
+    background-color: #1e3a56;
     padding: 20px;
     border-radius: 8px;
     text-align: left;
@@ -422,7 +422,7 @@ nav ul li a:hover {
     width: 100%;
     max-width: 1200px;
     padding: 30px;
-    background: rgba(255, 255, 255, 0.9);
+    background: #1e3a56;
     backdrop-filter: blur(10px);
     border-radius: 10px;
     box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.1);
