@@ -344,6 +344,7 @@ nav ul li a:hover {
     font-size: 2rem;
     color: white;
     margin-bottom: 40px;
+    text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.8);
 }
 
 .features {
@@ -533,6 +534,7 @@ footer {
     padding: 20px;
     margin-top: auto;
     flex-shrink: 0;
+    font-size: 0.9rem;
 }
 
 /* Responsive Adjustments */
