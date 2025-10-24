@@ -21,7 +21,7 @@ html, body {
 body {
     display: flex;
     flex-direction: column;
-    background-image: url('./assets/bg_image.png');	
+    background-image: url('./assets/sustainablebg1.png');	
     background-color: #f4f4f4;
     color: white;
     background-size: cover;
