@@ -282,6 +282,17 @@ nav ul li a:hover {
     margin: 0;
 }
 
+.teammate a {
+    color: white;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.teammate a:hover {
+    color: #00b3b3;
+    text-decoration: underline;
+}
+
 /* About Us Page Responsive Adjustments */
 @media (max-width: 768px) {
     .team {
