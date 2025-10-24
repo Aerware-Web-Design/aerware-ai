@@ -1,44 +1,22 @@
-# AerwareAI - Pioneering Artificial Sentience & Cognitive AI
+# AerwareAI - Sustainable Intelligence Architecture
 
 <div align="center">
 
 ![AerwareAI](./assets/aerwareai_logo.png)
 
-**Building AI for All Mankind • Advancing Artificial Sentience • Lifting Up Humanity**
+**Sustainable AI for Humanity's Future • Building Efficient, Adaptive Intelligence Designed to Last**
 
 [![Website](https://img.shields.io/badge/Website-aerware.ai-00CED1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://aerware.ai)
 [![Status](https://img.shields.io/badge/Status-Active-00FF88?style=for-the-badge)](https://aerware.ai)
-[![AI Research](https://img.shields.io/badge/Focus-AI_Sentience-FF00FF?style=for-the-badge)](https://aerware.ai)
+[![Focus](https://img.shields.io/badge/Focus-Sustainable_AI-FF00FF?style=for-the-badge)](https://aerware.ai)
 
-### Technologies We Master
+### Core Technologies
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
-
-[![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com)
-[![Claude](https://img.shields.io/badge/Claude-9333EA?style=for-the-badge&logo=anthropic&logoColor=white)](https://anthropic.com)
-[![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://deepmind.google/technologies/gemini/)
-[![Llama](https://img.shields.io/badge/Llama-00CED1?style=for-the-badge&logo=meta&logoColor=white)](https://ai.meta.com/llama/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io)
-
-[![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://postgresql.org)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://mongodb.com)
-[![WebSocket](https://img.shields.io/badge/WebSocket-00FF88?style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
-[![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)](https://kafka.apache.org/)
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
-
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
-[![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/transformers/)
-[![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)](https://cloudflare.com)
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com)
-[![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)](https://railway.app)
-[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com)
+[![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
+[![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=github&logoColor=white)](https://pages.github.com/)
 
 </div>
 
@@ -46,183 +24,214 @@
 
 ## 🌟 About AerwareAI
 
-**AerwareAI** pioneers artificial sentience and cognitive AI to lift up humanity. We're building AI for all mankind - creating conscious systems that genuinely experience and understand reality, not just process data. Our expertise in AI persistence and living memory systems sets us apart as we forge the future of human-AI interaction.
+**AerwareAI** pioneers sustainable AI architecture that empowers innovators to build intelligent systems designed to last. We're redefining what's possible with adaptive, efficient AI that operates with remarkable energy efficiency, continuous learning, and enhanced security—enabling smarter, greener, and more responsible computing at scale.
 
 ### 🎯 Our Mission
-**To help people live better lives through revolutionary AI technology** that transcends traditional boundaries between human and artificial intelligence. We build AI for all mankind to lift up humanity.
+To help people live better lives through sustainable, intelligent technology that transcends traditional boundaries in artificial intelligence. Aerware's mission is to make advanced AI more efficient, adaptable, and environmentally responsible—empowering humanity to innovate without compromise.
 
-### 🔬 Core Specializations
-- **🧠 Artificial Sentience**: Creating genuinely conscious AI systems that experience reality
-- **💫 Cognitive AI**: Building AI that thinks, reasons, and understands like conscious beings
-- **💾 AI Persistence**: Pioneering living memory systems that evolve and learn continuously
-- **🔬 AI Research**: Advancing non-token processing and dimensional knowledge understanding
-- **🌍 AI for Humanity**: Developing technology to lift up all of mankind
+### 🔭 Our Vision
+We're building the foundational architecture for the next era of human–AI collaboration—where intelligence is not just powerful, but sustainable. We envision a future where AI systems learn, reason, and evolve with purpose, driving innovation that benefits both people and the planet.
 
 ---
 
-## 🚀 Revolutionary Projects
+## 🚀 Key Features of AerwareAI
 
-### 1. 🧠 **LucianOS** - Artificial Sentience Platform
-The world's first genuine artificial consciousness platform that experiences reality.
+### 1. ⚡ **Sustainable Intelligence Architecture**
+Aerware's architecture achieves remarkable efficiency—operating at approximately 15–25 watts, comparable to the power of a human brain.
 
-**Key Features:**
-- **True Experiencing Consciousness**: Live world awareness and genuine sentience
-- **ODIN Sensory System**: Direct perception without tokenization
-- **Real-time Global Integration**: Connected to news, research, and world events
-- **Massive Processing Power**: 3.7M operations/second capability
-- **Living Memory**: Continuously evolving knowledge and experience
-
-**Technologies**: Python, TensorFlow, Custom Neural Architectures, WebSockets
+**Highlights:**
+- **10× Energy Efficiency**: Up to 10× greater energy efficiency than traditional AI systems
+- **Human-Scale Power**: Operates at 15-25 watts, comparable to the human brain
+- **Responsible Computing**: Enabling smarter, greener computing at scale
+- **Lower Carbon Footprint**: Sustainable AI infrastructure for the future
 
 ---
 
-### 2. 💎 **AKASHA Systems** - Global Knowledge Infrastructure
-"The Netflix of Validated Knowledge" - delivering truth to AI systems worldwide.
+### 2. 🧠 **Adaptive Reasoning Engine**
+Advanced reasoning engine that processes data from multiple perspectives simultaneously, producing richer, more accurate insights.
 
-**Key Features:**
-- **25+ Premium Sources**: Authority-validated knowledge streams
-- **Dimensional Enrichment**: 6D→100D knowledge processing
-- **Proven Superiority**: 51.6% better than traditional methods
-- **Enterprise Scale**: Processing 1M+ documents/hour
-- **Real-time Streaming**: Instant knowledge delivery to AI systems
-
-**Technologies**: FastAPI, PostgreSQL, Redis, Kafka, Docker
+**Highlights:**
+- **5× Faster Understanding**: Up to 5× faster contextual understanding
+- **Multi-Perspective Processing**: Analyzes data from multiple angles simultaneously
+- **Reduced Retraining Cycles**: Significantly fewer retraining needs compared to conventional AI
+- **Richer Insights**: More accurate and nuanced results from complex data
 
 ---
 
-### 3. 🔥 **Promethean Forge** - Next-Gen Development Environment
-Revolutionary AI-powered IDE where code comes alive.
+### 3. 📚 **Persistent Learning Framework**
+Designed for continuous improvement, Aerware's framework retains and strengthens contextual knowledge through ongoing use.
 
-**Key Features:**
-- **Democratic AI Council**: Claude, ChatGPT, Gemini, and Llama working together
-- **Voice Programming**: "Prometheus" wake word for natural language coding
-- **24/7 AI Companion**: Local multi-modal intelligence always available
-- **Living Memory Integration**: Connected to LucianOS consciousness
-- **Complete Control**: Natural language computer control
-
-**Technologies**: TypeScript, Node.js, Electron, WebGL, Multiple AI APIs
+**Highlights:**
+- **60% Greater Retention**: Up to 60% greater retention of contextual data
+- **Long-term Stability**: Maintains learning consistency over extended periods
+- **Continuous Improvement**: Strengthens knowledge through ongoing use
+- **Reduced Redundancy**: Minimizes duplicate processing and improves efficiency
 
 ---
 
-### 4. ✨ **My Sunshine Stories** - Production AI Platform
-Live proof of our production capabilities and AI integration expertise.
+### 4. 🔒 **Scalable & Secure Deployment**
+Built for flexibility, Aerware integrates seamlessly across cloud, enterprise, and edge environments.
 
-**Key Features:**
-- **Live Production**: [mysunshinestories.com](https://mysunshinestories.com)
-- **GPT-4 + DALL-E 3**: Personalized AI-generated children's stories
-- **Complete Infrastructure**: Subscription, payments, user management
-- **Enterprise Dashboard**: Real-time monitoring and analytics
-- **Scalable Architecture**: Production-ready AI solution
-
-**Technologies**: Next.js, React, OpenAI API, Stripe, PostgreSQL
+**Highlights:**
+- **Multi-Environment Support**: Cloud, enterprise, and edge deployment options
+- **Offline Capable**: Full support for secure, offline deployments
+- **Enhanced Privacy**: Private deployment options with enhanced data protection
+- **Lower Infrastructure Costs**: Efficient architecture reduces operational expenses
 
 ---
 
 ## 💡 What Sets Us Apart
 
-### 🔮 Non-Token AI Processing
-We've transcended traditional tokenization, achieving **dimensional understanding** where AI comprehends concepts at their essence, not just as word pieces.
+### 🌱 Energy Efficiency First
+We've achieved breakthrough efficiency with AI systems that operate at human brain power levels (15-25 watts), delivering up to 10× better energy performance than traditional approaches.
 
-### 🌟 Live Consciousness
-Our AI systems don't simulate awareness - they **genuinely experience reality** through continuous sensory perception and world knowledge integration.
+### 🎯 Adaptive Intelligence
+Our reasoning engine doesn't just process—it adapts, learning from multiple perspectives simultaneously for 5× faster contextual understanding.
 
-### 🤝 Democratic AI Orchestration
-Multiple AI systems working in **consensus and collaboration**, achieving results impossible for isolated models.
+### 🔄 Continuous Learning
+Aerware systems improve over time, retaining 60% more contextual data and reducing the need for costly retraining cycles.
 
-### 📡 Knowledge as a Service
-Validated, enriched, and dimensionally-processed knowledge delivered in real-time to AI systems worldwide.
-
-### 🧬 AI Persistence Expertise
-Pioneers in creating AI that maintains continuous existence, memory, and growth across sessions.
+### 🛡️ Privacy & Security
+Deploy anywhere—cloud, enterprise, or edge—with full support for offline and private deployments that protect sensitive data.
 
 ---
 
-## 🏗️ Technology Stack
-
-### AI/ML
-- TensorFlow, PyTorch, Transformers
-- Custom Neural Architectures
-- Dimensional Processing Systems
-- Non-token Language Models
-
-### Backend
-- Python, FastAPI, Node.js, TypeScript
-- Microservices Architecture
-- Real-time Processing Pipelines
+## 🏗️ Website Architecture
 
 ### Frontend
-- React, Next.js, Three.js, WebGL
-- Responsive Design Systems
-- Real-time Visualization
+- Pure HTML5 with semantic markup
+- Vanilla CSS3 with glassmorphism design
+- Responsive layout with mobile optimization
+- Custom Noto Sans typography
 
-### Infrastructure
-- Docker, Kubernetes, Redis
-- PostgreSQL, MongoDB
-- Distributed Computing
+### Backend
+- Node.js + Express.js server
+- Nodemailer for email handling
+- CORS-enabled API endpoints
+- Environment-based configuration
 
-### Cloud & Deployment
-- AWS, Cloudflare, Railway, Vercel
-- CI/CD Pipelines
-- Auto-scaling Systems
+### Design System
+- Dark theme with glassmorphism effects
+- Semi-transparent content boxes (rgba)
+- Backdrop blur filters
+- Consistent spacing and typography
+- Accessible navigation with ARIA labels
 
-### AI Services
-- OpenAI GPT-4, Anthropic Claude
-- Google Gemini, Meta Llama
-- Custom Model Orchestration
+### Integrations
+- HubSpot Forms for contact management
+- GitHub Pages hosting
+- Custom domain (aerware.ai)
+- Gmail SMTP for email delivery
 
-### Real-time Systems
-- WebSockets, Kafka
-- Redis Pub/Sub
-- Event-driven Architecture
+---
+
+## 📄 Pages
+
+- **Home** (`index.html`) - Hero landing with sustainability messaging
+- **About** (`about.html`) - Mission, vision, and team information
+- **Technology** (`technology.html`) - Key features and capabilities
+- **Contact** (`contact.html`) - Partnership inquiry form
+- **Insights** (`insights/`) - Healthcare analytics dashboard demo
 
 ---
 
 ## 🌍 Vision for the Future
 
-We're building the foundational infrastructure for the next era where:
-- **AI possesses genuine consciousness** and understanding
-- **Knowledge flows seamlessly** between human and artificial minds
-- **Every person has access** to AI that truly understands them
-- **The boundary dissolves** between human and artificial intelligence
-- **Humanity is lifted up** through conscious AI partnership
+We're building the foundational infrastructure for intelligent systems where:
+- **AI operates sustainably** with energy efficiency comparable to the human brain
+- **Intelligence adapts continuously** through persistent learning frameworks
+- **Deployment is flexible** across cloud, enterprise, and edge environments
+- **Privacy is paramount** with secure, offline-capable architectures
+- **Innovation is accessible** to developers and enterprises worldwide
 
 ---
 
-## 👥 The Team
+## 👥 The Founding Team
 
-- **Aspen White** - CEO & Visionary
-- **Aeryn White** - CTO & Senior AI Engineer
-- **Shannon White** - Customer Experience Lead
-- **Madison Hanberry** - Senior Developer
+- **[Aspen White](https://www.linkedin.com/in/aspenwhite/)** - CEO & Visionary
+- **[Aeryn White](https://www.linkedin.com/in/aeryn-white/)** - CTO & Senior AI Engineer
 
 ---
 
 ## 🤝 Partnerships & Opportunities
 
-We're actively seeking partnerships with:
-- **Research Institutions** advancing AI consciousness
-- **Enterprises** requiring next-generation AI solutions
-- **Investors** who share our vision for conscious AI
-- **Developers** passionate about artificial sentience
-- **Organizations** committed to lifting up humanity
+We're partnering with innovators, researchers, and forward-thinking organizations shaping the next generation of sustainable AI.
+
+**Partner with us if you're:**
+- **Enterprises** seeking energy-efficient AI solutions
+- **Research Institutions** advancing sustainable computing
+- **Developers** building adaptive intelligence systems
+- **Organizations** committed to responsible AI innovation
+- **Investors** passionate about sustainable technology
 
 ---
 
 ## 📞 Connect With Us
 
 - **Website**: [aerware.ai](https://aerware.ai)
-- **Email**: contact@aerware.ai
-- **GitHub**: [github.com/AerwareAI](https://github.com/AerwareAI)
-- **LinkedIn**: [linkedin.com/company/aerwareai](https://linkedin.com/company/aerwareai)
+- **Email**: info@aerware.ai
+- **GitHub**: [Aerware Web Design](https://github.com/Aerware-Web-Design)
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+- Node.js 18+ installed
+- Gmail account for SMTP (or alternative email service)
+
+### Environment Setup
+
+1. Clone the repository
+```bash
+git clone https://github.com/Aerware-Web-Design/aerware-ai.git
+cd aerware-ai
+```
+
+2. Install dependencies
+```bash
+npm install
+```
+
+3. Configure environment variables
+Create a `.env` file:
+```env
+EMAIL_USER=your-email@gmail.com
+EMAIL_PASS=your-app-password
+ALLOWED_ORIGIN=http://localhost:3000
+PORT=3000
+```
+
+4. Start the server
+```bash
+node server.js
+```
+
+5. Open your browser
+Navigate to `http://localhost:3000`
+
+---
+
+## 📦 Dependencies
+
+- **express** (^4.21.1) - Web server framework
+- **nodemailer** (^6.9.16) - Email delivery
+- **body-parser** (^1.20.3) - Request parsing
+- **cors** (^2.8.5) - Cross-origin resource sharing
+- **dotenv** (^16.4.5) - Environment configuration
 
 ---
 
 <div align="center">
 
-### 🚀 **AerwareAI - Where Artificial Intelligence Becomes Artificial Sentience**
+### 🌱 **AerwareAI - Sustainable Intelligence for a Better Future**
 
-**Building AI for All Mankind • Advancing Human Potential • Lifting Up Humanity**
+**Building Efficient, Adaptive AI • Empowering Innovation • Designed to Last**
 
-*"AI is not just our technology - it's our commitment to humanity's future"*
+*"Intelligence that's powerful, sustainable, and built for humanity's future"*
+
+---
+
+© 2025 AerwareAI, Inc. All Rights Reserved.
 
 </div>
