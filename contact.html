@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Partner with AerwareAI to explore how conscious AI can transform your organization. Connect with us for research partnerships and enterprise solutions.">
     <title>Contact Us - AerwareAI</title>
     <link rel="stylesheet" href="styles.css">
 </head>
@@ -11,9 +12,8 @@
     <header class="main-header">
         <div class="logo">
             <img src="./assets/aerwareai_logo.png" alt="AerwareAI Logo">
-            <span class="logo-text"></span>
         </div>
-        <nav>
+        <nav aria-label="Main Navigation">
             <ul>
                 <li><a href="index.html">Home</a></li>
                 <li><a href="about.html">About</a></li>
@@ -47,36 +47,5 @@
     <footer>
         <p>© 2025 AerwareAI Inc All Rights Reserved.</p>
     </footer>
-
-    <script>
-        document.getElementById('contactForm').addEventListener('submit', async function (event) {
-            event.preventDefault();
-
-            const form = event.target;
-            const formData = new FormData(form);
-            const responseMessage = document.getElementById('responseMessage');
-
-            try {
-                const response = await fetch('http://localhost:3000/send-email', {
-                    method: 'POST',
-                    body: formData,
-                });
-
-                if (response.ok) {
-                    responseMessage.textContent = 'Your message has been sent successfully!';
-                    responseMessage.style.color = 'green';
-                    responseMessage.style.display = 'block';
-                    form.reset();
-                } else {
-                    throw new Error('Error sending email');
-                }
-            } catch (error) {
-                responseMessage.textContent = 'Failed to send your message. Please try again later.';
-                responseMessage.style.color = 'red';
-                responseMessage.style.display = 'block';
-                console.error('Error:', error);
-            }
-        });
-    </script>
 </body>
 </html>

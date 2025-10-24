@@ -1,7 +1,7 @@
 /* Fonts */
 @font-face {
     font-family: 'Noto Sans';
-    src: url('assets/noto-sans.woff2') format('woff');
+    src: url('assets/noto-sans.woff2') format('woff2');
 }
 
 /* General Styles */
@@ -97,7 +97,7 @@ nav {
 nav ul {
     display: flex;
     list-style: none;
-    grid-gap: 20px;
+    gap: 20px;
 }
 
 nav ul li a {
